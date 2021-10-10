@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Started as **ios app Developer ended up moving to cross platfrom**
 
 ### Skills
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=html5&logoColor=white&link=https://github.com/CGCode6/)](https://github.com/neilchauhan2/)
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=html5&logoColor=white&link=https://github.com/CGCode6/)](https://github.com/CGCode6/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/CGCode6/)](https://github.com/CGCode6/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/CGCode6/)](https://github.com/CGCode6/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/CGCode6/)](https://github.com/CGCode6/)
