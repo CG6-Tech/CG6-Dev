@@ -25,10 +25,10 @@
     <td align="center">
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=CGCode6&show_icons=true&theme=dracula" />
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/CGCode6">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGCode6&theme=radical&hide=glsl,python" />
-     </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGCode6&layout=compact&theme=tokyonight">
+      <a/>
     </td>
   </tr>
 </table>
