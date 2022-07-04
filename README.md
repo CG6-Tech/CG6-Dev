@@ -18,17 +18,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/CGCode6/)](https://github.com/CGCode6/)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&link=https://github.com/CGCode6/)](https://github.com/CGCode6/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/CGCode6/)](https://github.com/CGCode6/)
----
-
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=CGCode6&show_icons=true&theme=dracula" />
-    </td>
-    <td>
-      <a href="https://github.com/CGCode6">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGCode6&layout=compact&theme=tokyonight">
-      <a/>
-    </td>
-  </tr>
-</table>
