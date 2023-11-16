@@ -17,12 +17,29 @@
 
 <p align="center">🚀 Co Founder & Full Stack Developer at Likemindz Solutions</p>
 <p align="center">🌱 Currently learning React, AWS, Tensorflow</p>
-<p align="center">🤝 Looking to collaborate on ML Projects</p>
+<p align="center">👯 Actively seeking collaboration on ML Projects</p>
 <p align="center">⚡ Fun fact: Started as iOS app Developer, ended up moving to cross-platform</p>
 
-<p align="center">Connect with me:</p>
-<p align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_LINK"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="YOUR_TWITTER_PROFILE_LINK"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"></a>
-  <!-- Add more social media links as needed -->
-</p>
+### Skills
+- Frontend: Angular, React, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL
+- Version Control: Git, GitHub
+- Other: Java, C++
+
+### Projects
+- **Likemindz Solutions Platform**
+  - Co-created a comprehensive platform for Likemindz Solutions, contributing as a Full Stack Developer.
+
+### Education
+- **Self-Taught Programmer**
+  - Acquired programming skills through self-directed learning and hands-on projects.
+
+### Certifications
+- **AWS Certified Developer - Associate**
+  - Demonstrated expertise in developing and maintaining applications on the AWS platform.
+
+### Connect with me:
+- [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
+- [Twitter](YOUR_TWITTER_PROFILE_LINK)
+- [Portfolio Website](YOUR_PORTFOLIO_LINK)
