@@ -15,8 +15,8 @@
   <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++"></a>
 </p>
 
-<p align="center">🚀 Co Founder & Full Stack Developer at Likemindz Solutions</p>
-<p align="center">🌱 Currently learning React, AWS, Tensorflow</p>
+<p align="center">🚀 Co Founder & Full Stack Developer</p>
+<p align="center">🌱 Currently learning Golang, AWS</p>
 <p align="center">👯 Actively seeking collaboration on ML Projects</p>
 <p align="center">⚡ Fun fact: Started as iOS app Developer, ended up moving to cross-platform</p>
 
