@@ -17,27 +17,22 @@
 
 <p align="center">🚀 Co Founder & Full Stack Developer</p>
 <p align="center">🌱 Currently learning Golang, AWS</p>
+<p align="center">💬 Ask me about any thing related to product development</p>
 <p align="center">👯 Actively seeking collaboration on ML Projects</p>
 <p align="center">⚡ Fun fact: Started as iOS app Developer, ended up moving to cross-platform</p>
 
 ### Skills
-- Frontend: Angular, React, HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
+- Frontend: Angular, React, HTML, CSS, JavaScript.
+- Backend: Node.js, Express.js, Golang.
 - Databases: MongoDB, MySQL
-- Version Control: Git, GitHub
-- Other: Java, C++
+- Version Control: Git.
+- Devops: GCP, AWS.
+- Other: Java, C++.
 
 ### Projects
 - **Likemindz Solutions Platform**
   - Co-created a comprehensive platform for Likemindz Solutions, contributing as a Full Stack Developer.
 
-### Education
-- **Self-Taught Programmer**
-  - Acquired programming skills through self-directed learning and hands-on projects.
-
-### Certifications
-- **AWS Certified Developer - Associate**
-  - Demonstrated expertise in developing and maintaining applications on the AWS platform.
 
    ### Hey there 👋 
 I'm Azeez Elegbede. I'm an ethustiatic and responsible software engineer offering years of experience in demanding environments focused on producing cutting-edge systems for the web industries. Skilled in directing development with creative and performance-oriented approach. I am able to work well both in a team environment as well as using own initiative. I’m also an Opensource advocate, with belief in FOSS and the likes, building cultures around mentorships, and love speaking at conferences
