@@ -1,43 +1,128 @@
-<h1 align="center">👋 Hi there, I'm Channakeshava Gowda SV (CG6)</h1>
-<h3 align="center">A self-taught programmer and Programming addict</h3>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/cg6-tech)
 
-<p align="center">
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=html5&logoColor=white" alt="Angular"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="Nodejs"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java" alt="Java"></a>
-  <a href="https://github.com/CGCode6/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++"></a>
+<h1 align="center">👋 Hi there, I'm Channakeshava Gowda SV (CG)</h1>
+<h3 align="center">A passionate UI/UX Designer and Full-Stack developer from Bengaluru</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cg6-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Channakeshava Gowda" /></p>
+
+-   🔭 I’m currently working on **Hero Motocorp**
+
+-   🌱 I’m currently learning **Web3 and AI**
+
+-   🤝 I’m looking for help with **Web3**
+
+-   💻 Conatct ME or Visit My Portfolio [cg6.tech)
+
+-   💬 Ask me about **React, Angular, Spring Boot - Apis, Node JS-Express**
+
+-   📫 How to reach me **cg6.tech@gmail.com**
+
+-   ⚡ Fun fact: Jack of all trades and **Master of Full-Stack Development**.
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=cg6-tech&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cg6_tech" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="Linkedin: Channakeshava Gowda" />
+</a>
+<a href="mailto:cg6.tech@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email:Channakeshava Gowda" /></a>
 </p>
 
-<p align="center">🚀 Co Founder & Full Stack Developer</p>
-<p align="center">🌱 Currently learning Golang, AWS</p>
-<p align="center">💬 Ask me about any thing related to product development</p>
-<p align="center">👯 Actively seeking collaboration on ML Projects</p>
-<p align="center">⚡ Fun fact: Started as iOS app Developer, ended up moving to cross-platform</p>
+<h3 align="left">Tools and Libraries:</h3>
+<p align="left">
 
-### Skills
-- Frontend: Angular, React, HTML, CSS, JavaScript.
-- Backend: Node.js, Express.js, Golang.
-- Databases: MongoDB, MySQL
-- Version Control: Git.
-- Devops: GCP, AWS.
-- Other: Java, C++.
+![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
-### Projects
-- **Likemindz Solutions Platform**
-  - Co-created a comprehensive platform for Likemindz Solutions, contributing as a Full Stack Developer.
+</p>
 
+<h3 align="left">UI Frameworks & Softwares:</h3>
+<p align="left">
 
-[![Ace's github stats](https://github-readme-stats.vercel.app/api?username=CG6-Tech&show_icons=true)](https://github.com/CG6-Tech/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CG6-Tech&layout=compact)](https://github.com/CG6-Tech/github-readme-stats)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![fontawsome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+![materialui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![postcss](https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
+![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
 
-### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/cg6-tech)
-- [Twitter](https://twitter.com/cg6_tech)
-- [Portfolio Website](www.cg6.tech)
+</p>
+<h3 align="left">Languages:</h3>
+<p align="left">
+
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</p>
+
+<h3 align="left">Developement Frameworks:</h3>
+<p align="left">
+
+![net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![dajango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![angular](https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=angular&logoColor=white) 
+![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</p>
+<h3 align="left">Databases & Dev Tools:</h3>
+<p align="left">
+
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![superbase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![xamp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![webpack](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+</p>
+
+<h3 align="left">Cloud Development Tools:</h3>
+<p align="left">
+
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![ngnix](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![vecel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cg6-tech&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="Channakeshava Gowda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cg6-tech&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="Channakeshava Gowda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cg6-tech&hide_border=true&theme=transparent" alt="Channakeshava Gowda" /></p>
