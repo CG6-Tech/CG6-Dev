@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/cg6-tech)
+[![MasterHead](cg_bg.gif)](https://github.com/cg6-tech)
 
 <h1 align="center">👋 Hi there, I'm Channakeshava Gowda SV (CG)</h1>
 <h3 align="center">A passionate UI/UX Designer and Full-Stack developer from Bengaluru</h3>
