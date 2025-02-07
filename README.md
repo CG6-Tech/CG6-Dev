@@ -21,8 +21,6 @@
 
 -   ⚡ Fun fact: Jack of all trades and **Master of Full-Stack Development**.
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=cg6-tech&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cg6_tech" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="Linkedin: Channakeshava Gowda" />
